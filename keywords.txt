@@ -1,0 +1,2 @@
+Init	KEYWORD1
+SetFreq	KEYWORD1
